@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "sasquatch-tc",
+  "namespace": "",
+  "sfdcLoginUrl": "https://sasquatchtrackclub-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "55.0"
+}
